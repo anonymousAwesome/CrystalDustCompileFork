@@ -21,7 +21,6 @@ sound/**/*.bin
 sound/songs/midi/*.s
 tools/agbcc
 *.map
-*.ld
 *.bat
 *.dump
 Thumbs.db
@@ -33,6 +32,4 @@ porymap.project.cfg
 .vscode/
 *.a
 .fuse_hidden*
-src/*.s
-alphas/
 *.sna
